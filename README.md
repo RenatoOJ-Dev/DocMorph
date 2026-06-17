@@ -54,3 +54,9 @@ Markdown → Template Visual → PDF
 
 Transformar documentos estáticos em estruturas reutilizáveis e inteligentes, permitindo edição, reorganização e reconstrução sem perder a identidade visual do documento original.
 
+## Authors
+
+* Renato (@RenatoOJ-Dev)
+* ChatGPT (OpenAI) 
+* Qwen (Alibaba Cloud)
+
