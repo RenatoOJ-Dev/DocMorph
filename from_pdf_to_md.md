@@ -549,10 +549,5 @@ Converter PDFs (manuais técnicos, documentação, relatórios, artigos) em Mark
 | 1.0 | Junho 2026 | Versão inicial com 7 agentes |
 
 ---
-
-**Suporte e Contribuição**  
-Para dúvidas, sugestões ou contribuições, consulte a documentação do projeto ou entre em contato com a equipe de desenvolvimento.
-
-**Licença:** MIT  
 **Autor:** Sistema Multi-Agente Conversão PDF para Markdown  
 **Última revisão:** Junho 2026
